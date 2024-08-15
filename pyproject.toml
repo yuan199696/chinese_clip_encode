@@ -1,0 +1,15 @@
+[project]
+name = "chinese_clip_encode"
+description = "Support input of Chinese prompts."
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["translate"]
+
+[project.urls]
+Repository = "https://github.com/yuan199696/chinese_clip_encode"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "chinese-clip-encode"
+DisplayName = "chinese_clip_encode"
+Icon = ""
