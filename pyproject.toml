@@ -10,6 +10,6 @@ Repository = "https://github.com/yuan199696/chinese_clip_encode"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "chinese-clip-encode"
 DisplayName = "chinese_clip_encode"
 Icon = ""
